@@ -1,0 +1,1 @@
+var json_GunungSlamet_3 = {"type":"FeatureCollection","name":"GunungSlamet_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[109.214499924561906,-7.241624229831126]}}]}
